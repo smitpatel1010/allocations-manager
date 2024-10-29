@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" errors="0" time="3.92">
+  <testsuite name="src/__tests__/sample.test.js" errors="0" failures="0" skipped="0" timestamp="2024-10-29T07:58:50" time="2.391" tests="2">
+    <testcase classname="1." name="renders components and current view toggle correctly" time="0.301">
+    </testcase>
+    <testcase classname="1." name="update allocation in week view, month view should get updated" time="0.093">
+    </testcase>
+  </testsuite>
+  <testsuite name="src/__tests__/main.test.js" errors="0" failures="0" skipped="0" timestamp="2024-10-29T07:58:50" time="2.838" tests="8">
+    <testcase classname="1." name="1.1" time="0.336">
+    </testcase>
+    <testcase classname="1." name="1.2" time="0.092">
+    </testcase>
+    <testcase classname="2." name="2.1" time="0.012">
+    </testcase>
+    <testcase classname="2." name="2.2" time="0.077">
+    </testcase>
+    <testcase classname="2." name="2.3" time="0.059">
+    </testcase>
+    <testcase classname="3." name="3.1" time="0.095">
+    </testcase>
+    <testcase classname="3." name="3.2" time="0.033">
+    </testcase>
+    <testcase classname="3." name="3.3" time="0.072">
+    </testcase>
+  </testsuite>
+</testsuites>
